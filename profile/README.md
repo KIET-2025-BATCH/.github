@@ -12,7 +12,7 @@ IIIT mentors are collaborating with KIET 4th-year students to guide them on thei
 |             | CAI              | 20           | KIETW          |
 |             | CAI D            | 9            | KIETW          |
 | Swetha      | AID-H            | 17           | KIETW          |
-|             | AID D            | 15           | KIETW          |
+|  Swetha           | AID D            | 15           | KIETW          |
 | Varshith    | CSM H            | 18           | KIET & KIET-2  |
 | Sai Kumar   | CSM D1           | 18           | KIET           |
 | Bhaskar     | CSM D2           | 14           | KIET-2         |
